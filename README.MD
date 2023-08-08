@@ -3,6 +3,6 @@
 
 List of topics covered:
 <ul>
-<li>Definitions</li>
-<li>Recursion</>
+<li>definitions: code snippets related to different mathematical definitions.</li>
+
 </ul>
