@@ -1,6 +1,15 @@
 {
-  "dependencies": {
-    "math.js": "^1.1.46",
-    "mathjs": "^11.11.1"
-  }
+  
+ "dependencies": {
+  
+   
+ "chartjs": "^0.3.24",
+  
+   
+ "math.js": "^1.1.46",
+  
+   
+ "mathjs": "^11.12.0"
+  
+ }
 }
